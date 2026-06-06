@@ -1,0 +1,32 @@
+# Виртуальное окружение
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Временные файлы
+temp_*.png
+debug_*.png
+*.tmp
+
+# Результаты перевода (опционально, можно не исключать)
+# translated/
+
+# IDE
+.vscode/
+.idea/
+
+# Системные файлы
+Thumbs.db
+.DS_Store
+
+# Логи
+*.log
+
+# Tesseract установщик (большой файл)
+tesseract_setup/*.exe
+
+# Большие файлы
+*.zip
+*.rar
+*.7z
