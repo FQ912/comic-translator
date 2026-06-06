@@ -13,7 +13,6 @@
 
 ### Windows:
 Откройте командную строку в папке с проектом и выполните:
-```batch
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
